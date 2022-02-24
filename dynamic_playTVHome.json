@@ -1,125 +1,25 @@
 {
-  "totalMaxRow": 5,
-  "customPlayTVHomeRow": [
-    {
-      "index": 12,
-      "rowTitle": "Liga Malaysia 2023",
-      "hideDisplay": false,
-      "apiType": "nm0",
-      "channelList": [
-        {
-          "index": "1",
-          "productID": "US2",
-          "channelID": "41210859",
-          "channelID_6001": "41210859",
-          "channelID_6002": "41210859",
-          "channelID_6003": "41210859",
-          "channelID_8601": "41210859",
-          "title": "Unifi Sports 2 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_A2.jpg"
-        },
-        {
-          "index": "2",
-          "productID": "US3",
-          "channelID": "52026408",
-          "channelID_6001": "52026408",
-          "channelID_6002": "52026408",
-          "channelID_6003": "52026408",
-          "channelID_8601": "52026408",
-          "title": "Unifi Sports 3 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_A2.jpg"
-        },
-        {
-          "index": "3",
-          "productID": "US4",
-          "channelID": "54199255",
-          "channelID_6001": "54199255",
-          "channelID_6002": "54199255",
-          "channelID_6003": "54199255",
-          "channelID_8601": "54199255",
-          "title": "Unifi Sports 4 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_A2.jpg"
-        }
-      ]
-    },
-    {
-      "index": 0,
-      "rowTitle": "BEIJING 2022",
-      "hideDisplay": false,
-      "apiType": "nm1",
-      "channelList": [
-        {
-          "index": "1",
-          "productID": "US2",
-          "channelID": "41210859",
-          "channelID_6001": "41210859",
-          "channelID_6002": "41210859",
-          "channelID_6003": "41210859",
-          "channelID_8601": "41210859",
-          "title": "Unifi Sports 2 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD2_A2.jpg"
-        },
-        {
-          "index": "2",
-          "productID": "US3",
-          "channelID": "52026408",
-          "channelID_6001": "52026408",
-          "channelID_6002": "52026408",
-          "channelID_6003": "52026408",
-          "channelID_8601": "52026408",
-          "title": "Unifi Sports 3 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD3_A2.jpg"
-        },
-        {
-          "index": "3",
-          "productID": "US4",
-          "channelID": "54199255",
-          "channelID_6001": "54199255",
-          "channelID_6002": "54199255",
-          "channelID_6003": "54199255",
-          "channelID_8601": "54199255",
-          "title": "Unifi Sports 4 HD",
-          "posterURL": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_B2.jpg",
-          "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Beijing/beijingHD4_A2.jpg"
-        }
-      ]
-    },
-    {
-      "index": 2,
-      "rowTitle": "Sukan Asean 2023",
-      "hideDisplay": false,
-      "apiType": "nm2",
-      "channelList": [
-        {
-          "index": "1",
-          "productID": "x0x0x0",
-          "channelID": "20000009",
-          "channelID_6001": "20000009",
-          "channelID_6002": "20000009",
-          "channelID_6003": "20000009",
-          "channelID_8601": "20000009",
-          "title": "Olympic Channel TV1",
-          "posterURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/2020_Summer_Olympics_logo_new.svg/1200px-2020_Summer_Olympics_logo_new.svg.png",
-          "posterURL_ATV": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/2020_Summer_Olympics_logo_new.svg/1200px-2020_Summer_Olympics_logo_new.svg.png"
-        },
-        {
-          "index": "2",
-          "productID": "x0x0x0",
-          "channelID": "20000036",
-          "channelID_6001": "20000036",
-          "channelID_6002": "20000036",
-          "channelID_6003": "20000036",
-          "channelID_8601": "20000036",
-          "title": "Olympic Channel TV2",
-          "posterURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/2020_Summer_Olympics_logo_new.svg/1200px-2020_Summer_Olympics_logo_new.svg.png",
-          "posterURL_ATV": "hhttps://upload.wikimedia.org/wikipedia/en/thumb/1/1d/2020_Summer_Olympics_logo_new.svg/1200px-2020_Summer_Olympics_logo_new.svg.png"
-        }
-      ]
-    }
-  ]
+  "request": {
+    "PromoAdsStatus": true,
+    "PromoAds": [
+     
+      {
+        "index": "1",
+        "title": "OTT Promo",
+        "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
+        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": true
+      },
+      
+      {
+        "index": "2",
+        "title": "Unifi Promo",
+        "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
+        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+        "promoStatus": false
+      }
+    ]
+  }
 }
