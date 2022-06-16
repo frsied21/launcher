@@ -6,8 +6,8 @@
       {
         "index": "1",
         "title": "OTT Promo",
-        "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
-        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+        "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT2.jpg",
+        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo2.jpg",
         "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
         "promoStatus": true
       },
@@ -16,7 +16,7 @@
         "index": "2",
         "title": "Unifi Promo",
         "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
-        "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+        "PopUpPoster": "https://gamudaland.com.my/jadehills/products/img/popup/18enclave-mobile.jpg",
         "extRedirection": "https://streetview.my/gamuda/jadehills/3sbungalow/typec/",
         "promoStatus": true
       }
