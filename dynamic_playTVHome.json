@@ -1,6 +1,6 @@
 {
   "request": {
-    "PromoAdsStatus": false,
+    "PromoAdsStatus": true,
     "PromoAds": [
      
       {
@@ -17,8 +17,8 @@
         "title": "Unifi Promo",
         "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
         "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
-        "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-        "promoStatus": false
+        "extRedirection": "https://streetview.my/gamuda/jadehills/3sbungalow/typec/",
+        "promoStatus": true
       }
     ]
   }
