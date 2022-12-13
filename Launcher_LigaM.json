@@ -5973,11 +5973,11 @@
             "name": [
                 {
                     "language": "en",
-                    "value": "LIGA MALAYSIA"
+                    "value": "RM5 PROMO"
                 },
                 {
                     "language": "zh",
-                    "value": "LIGA MALAYSIA"
+                    "value": "RM5 PROMO"
                 }
             ],
             "controlInfo": {
@@ -5986,7 +5986,7 @@
                 "showMore": 0,
                 "pageId": 300
             },
-            "categoryCode": "G0001",
+            "categoryCode": "G1008",
             "id": "801",
             "type": "4",
             "index": "1",
