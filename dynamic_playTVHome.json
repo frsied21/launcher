@@ -17,7 +17,7 @@
           "title": "Unifi Promo",
           "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
           "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
-          "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
           "promoStatus": true
         }
       ]
