@@ -6,17 +6,24 @@
         {
           "index": "1",
           "title": "OTT Promo",
-          "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT4.png",
-          "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo4.jpg",
+          "BlurbPoster": "https://github.com/frsied21/launcher/blob/master/popUp_Dv1_small.png",
+          "PopUpPoster": "https://github.com/frsied21/launcher/blob/master/Final.popUp_3posters.jpg",
           "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
           "promoStatus": true
         },
-        
         {
           "index": "2",
           "title": "Unifi Promo",
-          "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
-          "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+          "BlurbPoster": "https://github.com/frsied21/launcher/blob/master/popUp_Dv1_small.png",
+          "PopUpPoster": "https://github.com/frsied21/launcher/blob/master/Final.vod_Upick2_1280x1885.jpg",
+          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
+          "promoStatus": true
+        },
+        {
+          "index": "3",
+          "title": "Promo",
+          "BlurbPoster": "https://github.com/frsied21/launcher/blob/master/popUp_Dv1_small.png",
+          "PopUpPoster": "https://github.com/frsied21/launcher/blob/master/Final.popUp_MAX-UC.jpg",
           "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
           "promoStatus": true
         }
