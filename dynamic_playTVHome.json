@@ -7,7 +7,7 @@
           "index": "1",
           "title": "OTT Promo",
           "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
-          "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_3posters.jpg",
+          "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_3posters-temp.jpg",
           "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
           "promoStatus": true
         },
@@ -17,7 +17,7 @@
           "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
           "PopUpPoster": "https://frsied21.github.io/launcher/Final.vod_Upick2_1280x1885.jpg",
           "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
-          "promoStatus": true
+          "promoStatus": false
         },
         {
           "index": "3",
@@ -25,7 +25,7 @@
           "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
           "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_MAX-UC.jpg",
           "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
-          "promoStatus": true
+          "promoStatus": false
         }
       ]
     }
