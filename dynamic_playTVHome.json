@@ -1,33 +1,2383 @@
 {
-    "request": {
-      "PromoAdsStatus": true,
-      "PromoAds": [
-       
-        {
-          "index": "1",
-          "title": "OTT Promo",
-          "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
-          "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_3posters-temp.jpg",
-          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
-          "promoStatus": true
-        },
-        {
-          "index": "2",
-          "title": "Unifi Promo",
-          "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
-          "PopUpPoster": "https://frsied21.github.io/launcher/Final.vod_Upick2_1280x1885.jpg",
-          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
-          "promoStatus": false
-        },
-        {
-          "index": "3",
-          "title": "Promo",
-          "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
-          "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_MAX-UC.jpg",
-          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
-          "promoStatus": false
-        }
-      ]
-    }
+  "IPTV_OTT": {
+    "CatchUpParentSubjectID": "UW2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "UW2100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "UW2002",
+        "description": "Info"
+      },
+      {
+        "subjectID": "UW5003",
+        "description": "New Rail test"
+      }
+    ],
+    "AllChannelSubjectID": "PU6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PU6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "UW5003",
+        "description": "New Rail test"
+      },
+      {
+        "index": 1,
+        "subjectID": "UW2100",
+        "description": "Must Watch"
+      },
+      {
+        "index": 2,
+        "subjectID": "UW2005",
+        "description": "Movies"
+      },
+      {
+        "index": 3,
+        "subjectID": "UW2003",
+        "description": "Kids"
+      },
+      {
+        "index": 4,
+        "subjectID": "UW2008",
+        "description": "Sports"
+      },
+      {
+        "index": 5,
+        "subjectID": "UW2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 6,
+        "subjectID": "UW2011",
+        "description": "Chinese"
+      },
+      {
+        "index": 7,
+        "subjectID": "UW2009",
+        "description": "Malay"
+      },
+      {
+        "index": 8,
+        "subjectID": "UW2001",
+        "description": "International Variety"
+      },
+      {
+        "index": 9,
+        "subjectID": "UW2012",
+        "description": "Korean & Japanese"
+      },
+      {
+        "index": 10,
+        "subjectID": "UW2002",
+        "description": "Info"
+      }
+    ],
+    "channelMappingDict": [
+      {
+        "subjectID": "UW2005",
+        "description": "Movies",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6067",
+            "description": "SIAR"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6002",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6054",
+            "description": "CCM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6052",
+            "description": "HITS Movies"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6017",
+            "description": "ROCK Action"
+          },
+          {
+            "index": 8,
+            "subjectID": "PU6004",
+            "description": "CinemaWorld"
+          },
+          {
+            "index": 9,
+            "subjectID": "PU6064",
+            "description": "Colors Cineplex"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2003",
+        "description": "Kids",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6068",
+            "description": "Moonbug"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6006",
+            "description": "DreamWorks"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6010",
+            "description": "Nick Jr."
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6025",
+            "description": "CBeebies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6039",
+            "description": "Nickelodeon"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6003",
+            "description": "Boomerang"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6073",
+            "description": "Miao Mi"
+          },
+          {
+            "index": 8,
+            "subjectID": "PU6066",
+            "description": "Sony YAY!"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2008",
+        "description": "Sports",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6046",
+            "description": "Unifi Sports"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6059",
+            "description": "SPOTV"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6060",
+            "description": "beIN Sports"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2004",
+        "description": "Lifestyle & Knowledge",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6026",
+            "description": "BBC Lifestyle"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6023",
+            "description": "Travel Channel"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6027",
+            "description": "BBC Earth"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6045",
+            "description": "Love Nature"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6040",
+            "description": "CNA"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6063",
+            "description": "CGTN"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6074",
+            "description": "Smithsonian"
+          },
+          {
+            "index": 8,
+            "subjectID": "PU6075",
+            "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PU6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PU6019",
+            "description": "Euronews"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2011",
+        "description": "Chinese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6054",
+            "description": "CCM"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6012",
+            "description": "now Jelli"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6020",
+            "description": "SETI"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6062",
+            "description": "CCTV-4"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2009",
+        "description": "Malay",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6061",
+            "description": "Degup"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6067",
+            "description": "SIAR"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6002",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6007",
+            "description": "Sensasi"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6008",
+            "description": "Inspirasi"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6001",
+            "description": "Salam HD"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6013",
+            "description": "Pesona"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2001",
+        "description": "International Variety",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6028",
+            "description": "Warner TV"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6056",
+            "description": "AXN"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6041",
+            "description": "Paramount Network"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6016",
+            "description": "ROCK Entertainment"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6051",
+            "description": "HITS"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6032",
+            "description": "MTV Live"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6065",
+            "description": "Colors Tamil"
+          }
+        ]
+      },
+      {
+        "subjectID": "UW2012",
+        "description": "Korean & Japanese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6029",
+            "description": "tvN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6069",
+            "description": "ONE"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6055",
+            "description": "K-Plus"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6057",
+            "description": "GEM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6030",
+            "description": "Animax"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6072",
+            "description": "Aniplus"
+          }
+        ]
+      }
+    ]
+  },
+  "TVOS_OTT": {
+    "CatchUpParentSubjectID": "SW2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "SW2100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "SW2002",
+        "description": "Info"
+      },
+      {
+        "subjectID": "SW5002",
+        "description": "New This Week"
+      }
+    ],
+    "AllChannelSubjectID": "PS6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PS6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "SW5002",
+        "description": "New This Week"
+      },
+      {
+        "index": 1,
+        "subjectID": "SW2100",
+        "description": "Must Watch"
+      },
+      {
+        "index": 2,
+        "subjectID": "SW2005",
+        "description": "Movies"
+      },
+      {
+        "index": 3,
+        "subjectID": "SW2003",
+        "description": "Kids"
+      },
+      {
+        "index": 4,
+        "subjectID": "SW2008",
+        "description": "Sports"
+      },
+      {
+        "index": 5,
+        "subjectID": "SW2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 6,
+        "subjectID": "SW2011",
+        "description": "Chinese"
+      },
+      {
+        "index": 7,
+        "subjectID": "SW2009",
+        "description": "Malay"
+      },
+      {
+        "index": 8,
+        "subjectID": "SW2001",
+        "description": "International Variety"
+      },
+      {
+        "index": 9,
+        "subjectID": "SW2012",
+        "description": "Korean & Japanese"
+      },
+      {
+        "index": 10,
+        "subjectID": "SW2002",
+        "description": "Info"
+      }
+    ],
+    "channelMappingDict": [
+      {
+        "subjectID": "SW2005",
+        "description": "Movies",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6069",
+            "description": "SIAR"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6001",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6055",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6056",
+            "description": "CCM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6054",
+            "description": "HITS Movies"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6017",
+            "description": "ROCK Action"
+          },
+          {
+            "index": 8,
+            "subjectID": "PS6004",
+            "description": "CinemaWorld"
+          },
+          {
+            "index": 9,
+            "subjectID": "PS6066",
+            "description": "Colors Cineplex"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2003",
+        "description": "Kids",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6070",
+            "description": "Moonbug"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6006",
+            "description": "DreamWorks"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6010",
+            "description": "Nick Jr."
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6025",
+            "description": "CBeebies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6039",
+            "description": "Nickelodeon"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6003",
+            "description": "Boomerang"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6073",
+            "description": "Miao Mi"
+          },
+          {
+            "index": 8,
+            "subjectID": "PS6068",
+            "description": "Sony YAY!"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2008",
+        "description": "Sports",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6046",
+            "description": "Unifi Sports"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6061",
+            "description": "SPOTV"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6062",
+            "description": "beIN Sports"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2004",
+        "description": "Lifestyle & Knowledge",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6026",
+            "description": "BBC Lifestyle"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6023",
+            "description": "Travel Channel"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6027",
+            "description": "BBC Earth"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6045",
+            "description": "Love Nature"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6040",
+            "description": "CNA"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6065",
+            "description": "CGTN"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6074",
+            "description": "Smithsonian"
+          },
+          {
+            "index": 8,
+            "subjectID": "PS6075",
+            "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PS6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PS6019",
+            "description": "Euronews"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2011",
+        "description": "Chinese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6055",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6056",
+            "description": "CCM"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6012",
+            "description": "now Jelli"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6020",
+            "description": "SETI"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6064",
+            "description": "CCTV-4"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2009",
+        "description": "Malay",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6063",
+            "description": "Degup"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6069",
+            "description": "SIAR"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6001",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6007",
+            "description": "Sensasi"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6008",
+            "description": "Inspirasi"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6002",
+            "description": "Salam HD"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6013",
+            "description": "Pesona"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2001",
+        "description": "International Variety",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6028",
+            "description": "Warner TV"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6058",
+            "description": "AXN"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6041",
+            "description": "Paramount Network"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6016",
+            "description": "ROCK Entertainment"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6053",
+            "description": "HITS"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6032",
+            "description": "MTV Live"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6067",
+            "description": "Colors Tamil"
+          }
+        ]
+      },
+      {
+        "subjectID": "SW2012",
+        "description": "Korean & Japanese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6029",
+            "description": "tvN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6071",
+            "description": "ONE"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6057",
+            "description": "K-Plus"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6059",
+            "description": "GEM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6030",
+            "description": "Animax"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6072",
+            "description": "Aniplus"
+          }
+        ]
+      }
+    ]
+  },
+  "HESA": {
+    "CatchUpParentSubjectID": "H2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "H2100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "H2002",
+        "description": "Info"
+      },
+      {
+        "subjectID": "H5002",
+        "description": "New This Week"
+      }
+    ],
+    "AllChannelSubjectID": "PH6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PH6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "H5002",
+        "description": "New This Week"
+      },
+      {
+        "index": 1,
+        "subjectID": "H2100",
+        "description": "Must Watch"
+      },
+      {
+        "index": 2,
+        "subjectID": "H2005",
+        "description": "Movies"
+      },
+      {
+        "index": 3,
+        "subjectID": "H2003",
+        "description": "Kids"
+      },
+      {
+        "index": 4,
+        "subjectID": "H2008",
+        "description": "Sports"
+      },
+      {
+        "index": 5,
+        "subjectID": "H2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 6,
+        "subjectID": "H2011",
+        "description": "Chinese"
+      },
+      {
+        "index": 7,
+        "subjectID": "H2009",
+        "description": "Malay"
+      },
+      {
+        "index": 8,
+        "subjectID": "H2001",
+        "description": "International Variety"
+      },
+      {
+        "index": 9,
+        "subjectID": "H2012",
+        "description": "Korean & Japanese"
+      },
+      {
+        "index": 10,
+        "subjectID": "H2002",
+        "description": "Info"
+      }
+    ],
+    "channelMappingDict": [
+      {
+        "subjectID": "H2005",
+        "description": "Movies",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6001",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6054",
+            "description": "CCM"
+          },
+          {
+            "index": 5,
+            "subjectID": "PH6017",
+            "description": "ROCK Action"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2003",
+        "description": "Kids",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6067",
+            "description": "Moonbug"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6006",
+            "description": "DreamWorks"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6010",
+            "description": "Nick Jr."
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6025",
+            "description": "CBeebies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PH6039",
+            "description": "Nickelodeon"
+          },
+          {
+            "index": 6,
+            "subjectID": "to-be-confirmed",
+            "description": "Miao Mi"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2008",
+        "description": "Sports",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6046",
+            "description": "Unifi Sports"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6059",
+            "description": "SPOTV"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2004",
+        "description": "Lifestyle & Knowledge",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6026",
+            "description": "BBC Lifestyle"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6027",
+            "description": "BBC Earth"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6045",
+            "description": "Love Nature"
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6040",
+            "description": "CNA"
+          },
+          {
+            "index": 5,
+            "subjectID": "PH6063",
+            "description": "CGTN"
+          },
+          {
+            "index": 6,
+            "subjectID": "PH6074",
+            "description": "Smithsonian"
+          },
+          {
+            "index": 7,
+            "subjectID": "PH6075",
+            "description": "DW"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2011",
+        "description": "Chinese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6054",
+            "description": "CCM"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6012",
+            "description": "now Jelli"
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6020",
+            "description": "SETI"
+          },
+          {
+            "index": 5,
+            "subjectID": "PH6062",
+            "description": "CCTV-4"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2009",
+        "description": "Malay",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6061",
+            "description": "Degup"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6001",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6007",
+            "description": "Sensasi"
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6008",
+            "description": "Inspirasi"
+          },
+          {
+            "index": 5,
+            "subjectID": "PH6002",
+            "description": "Salam HD"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2001",
+        "description": "International Variety",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6056",
+            "description": "AXN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6041",
+            "description": "Paramount Network"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6016",
+            "description": "ROCK Entertainment"
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6032",
+            "description": "MTV Live"
+          }
+        ]
+      },
+      {
+        "subjectID": "H2012",
+        "description": "Korean & Japanese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PH6029",
+            "description": "tvN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PH6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PH6068",
+            "description": "ONE"
+          },
+          {
+            "index": 4,
+            "subjectID": "PH6057",
+            "description": "GEM"
+          },
+          {
+            "index": 5,
+            "subjectID": "PH6030",
+            "description": "Animax"
+          }
+        ]
+      }
+    ]
+  },
+  "GUEST": {
+    "CatchUpParentSubjectID": "G2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "G2100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "G2002",
+        "description": "Info"
+      },
+      {
+        "subjectID": "G5002",
+        "description": "New This Week"
+      }
+    ],
+    "AllChannelSubjectID": "PG6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PG6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "G5002",
+        "description": "New This Week"
+      },
+      {
+        "index": 1,
+        "subjectID": "G2100",
+        "description": "Must Watch"
+      },
+      {
+        "index": 2,
+        "subjectID": "G2005",
+        "description": "Movies"
+      },
+      {
+        "index": 3,
+        "subjectID": "G2003",
+        "description": "Kids"
+      },
+      {
+        "index": 4,
+        "subjectID": "G2008",
+        "description": "Sports"
+      },
+      {
+        "index": 5,
+        "subjectID": "G2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 6,
+        "subjectID": "G2011",
+        "description": "Chinese"
+      },
+      {
+        "index": 7,
+        "subjectID": "G2009",
+        "description": "Malay"
+      },
+      {
+        "index": 8,
+        "subjectID": "G2001",
+        "description": "International Variety"
+      },
+      {
+        "index": 9,
+        "subjectID": "G2012",
+        "description": "Korean & Japanese"
+      },
+      {
+        "index": 10,
+        "subjectID": "G2002",
+        "description": "Info"
+      }
+    ],
+    "channelMappingDict": [
+      {
+        "subjectID": "G2005",
+        "description": "Movies",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6067",
+            "description": "SIAR"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6002",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6054",
+            "description": "CCM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PG6052",
+            "description": "HITS Movies"
+          },
+          {
+            "index": 7,
+            "subjectID": "PG6017",
+            "description": "ROCK Action"
+          },
+          {
+            "index": 8,
+            "subjectID": "PG6004",
+            "description": "CinemaWorld"
+          },
+          {
+            "index": 9,
+            "subjectID": "PG6064",
+            "description": "Colors Cineplex"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2003",
+        "description": "Kids",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6068",
+            "description": "Moonbug"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6006",
+            "description": "DreamWorks"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6010",
+            "description": "Nick Jr."
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6025",
+            "description": "CBeebies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6039",
+            "description": "Nickelodeon"
+          },
+          {
+            "index": 6,
+            "subjectID": "PG6003",
+            "description": "Boomerang"
+          },
+          {
+            "index": 7,
+            "subjectID": "PG6073",
+            "description": "Miao Mi"
+          },
+          {
+            "index": 8,
+            "subjectID": "PG6066",
+            "description": "Sony YAY!"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2008",
+        "description": "Sports",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6046",
+            "description": "Unifi Sports"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6059",
+            "description": "SPOTV"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6060",
+            "description": "beIN Sports"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2004",
+        "description": "Lifestyle & Knowledge",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6026",
+            "description": "BBC Lifestyle"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6023",
+            "description": "Travel Channel"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6027",
+            "description": "BBC Earth"
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6045",
+            "description": "Love Nature"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6040",
+            "description": "CNA"
+          },
+          {
+            "index": 6,
+            "subjectID": "PG6063",
+            "description": "CGTN"
+          },
+          {
+            "index": 7,
+            "subjectID": "PG6074",
+            "description": "Smithsonian"
+          },
+          {
+            "index": 8,
+            "subjectID": "PG6075",
+            "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PG6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PG6019",
+            "description": "Euronews"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2011",
+        "description": "Chinese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6054",
+            "description": "CCM"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6012",
+            "description": "now Jelli"
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6020",
+            "description": "SETI"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6062",
+            "description": "CCTV-4"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2009",
+        "description": "Malay",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6061",
+            "description": "Degup"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6067",
+            "description": "SIAR"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6002",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6007",
+            "description": "Sensasi"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6008",
+            "description": "Inspirasi"
+          },
+          {
+            "index": 6,
+            "subjectID": "PG6001",
+            "description": "Salam HD"
+          },
+          {
+            "index": 7,
+            "subjectID": "PG6013",
+            "description": "Pesona"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2001",
+        "description": "International Variety",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6028",
+            "description": "Warner TV"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6056",
+            "description": "AXN"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6041",
+            "description": "Paramount Network"
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6016",
+            "description": "ROCK Entertainment"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6051",
+            "description": "HITS"
+          },
+          {
+            "index": 6,
+            "subjectID": "PG6032",
+            "description": "MTV Live"
+          },
+          {
+            "index": 7,
+            "subjectID": "PG6065",
+            "description": "Colors Tamil"
+          }
+        ]
+      },
+      {
+        "subjectID": "G2012",
+        "description": "Korean & Japanese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PG6029",
+            "description": "tvN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PG6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PG6069",
+            "description": "ONE"
+          },
+          {
+            "index": 4,
+            "subjectID": "PG6055",
+            "description": "K-Plus"
+          },
+          {
+            "index": 5,
+            "subjectID": "PG6057",
+            "description": "GEM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PG6030",
+            "description": "Animax"
+          },
+          {
+            "index": 7,
+            "subjectID": "PG6072",
+            "description": "Aniplus"
+          }
+        ]
+      }
+    ]
+  },
+  "IPTV_STB": {
+    "CatchUpParentSubjectID": "U2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "U3100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "U2002",
+        "description": "Info"
+      },
+      {
+        "subjectID": "UW5002",
+        "description": "New This Week"
+      }
+    ],
+    "AllChannelSubjectID": "PU6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PU6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "UW5002",
+        "description": "New This Week"
+      },
+      {
+        "index": 1,
+        "subjectID": "U3100",
+        "description": "Must Watch"
+      },
+      {
+        "index": 2,
+        "subjectID": "U2005",
+        "description": "Movies"
+      },
+      {
+        "index": 3,
+        "subjectID": "U2003",
+        "description": "Kids"
+      },
+      {
+        "index": 4,
+        "subjectID": "U2008",
+        "description": "Sports"
+      },
+      {
+        "index": 5,
+        "subjectID": "U2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 6,
+        "subjectID": "U2011",
+        "description": "Chinese"
+      },
+      {
+        "index": 7,
+        "subjectID": "U2009",
+        "description": "Malay"
+      },
+      {
+        "index": 8,
+        "subjectID": "U2001",
+        "description": "International Variety"
+      },
+      {
+        "index": 9,
+        "subjectID": "U2012",
+        "description": "Korean & Japanese"
+      },
+      {
+        "index": 10,
+        "subjectID": "U2002",
+        "description": "Info"
+      }
+    ],
+    "channelMappingDict": [
+      {
+        "subjectID": "U2005",
+        "description": "Movies",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6067",
+            "description": "SIAR"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6002",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6054",
+            "description": "CCM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6052",
+            "description": "HITS Movies"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6017",
+            "description": "ROCK Action"
+          },
+          {
+            "index": 8,
+            "subjectID": "PU6004",
+            "description": "CinemaWorld"
+          },
+          {
+            "index": 9,
+            "subjectID": "PU6064",
+            "description": "Colors Cineplex"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2003",
+        "description": "Kids",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6068",
+            "description": "Moonbug"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6006",
+            "description": "DreamWorks"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6010",
+            "description": "Nick Jr."
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6025",
+            "description": "CBeebies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6039",
+            "description": "Nickelodeon"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6003",
+            "description": "Boomerang"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6073",
+            "description": "Miao Mi"
+          },
+          {
+            "index": 8,
+            "subjectID": "PU6066",
+            "description": "Sony YAY!"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2008",
+        "description": "Sports",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6046",
+            "description": "Unifi Sports"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6059",
+            "description": "SPOTV"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6060",
+            "description": "beIN Sports"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2004",
+        "description": "Lifestyle & Knowledge",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6026",
+            "description": "BBC Lifestyle"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6023",
+            "description": "Travel Channel"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6027",
+            "description": "BBC Earth"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6045",
+            "description": "Love Nature"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6040",
+            "description": "CNA"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6063",
+            "description": "CGTN"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6074",
+            "description": "Smithsonian"
+          },
+          {
+            "index": 8,
+            "subjectID": "PU6075",
+            "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PU6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PU6019",
+            "description": "Euronews"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2011",
+        "description": "Chinese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6053",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6054",
+            "description": "CCM"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6012",
+            "description": "now Jelli"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6020",
+            "description": "SETI"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6062",
+            "description": "CCTV-4"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2009",
+        "description": "Malay",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6061",
+            "description": "Degup"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6067",
+            "description": "SIAR"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6002",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6007",
+            "description": "Sensasi"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6008",
+            "description": "Inspirasi"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6001",
+            "description": "Salam HD"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6013",
+            "description": "Pesona"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2001",
+        "description": "International Variety",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6028",
+            "description": "Warner TV"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6056",
+            "description": "AXN"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6041",
+            "description": "Paramount Network"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6016",
+            "description": "ROCK Entertainment"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6051",
+            "description": "HITS"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6032",
+            "description": "MTV Live"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6065",
+            "description": "Colors Tamil"
+          }
+        ]
+      },
+      {
+        "subjectID": "U2012",
+        "description": "Korean & Japanese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PU6029",
+            "description": "tvN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PU6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PU6069",
+            "description": "ONE"
+          },
+          {
+            "index": 4,
+            "subjectID": "PU6055",
+            "description": "K-Plus"
+          },
+          {
+            "index": 5,
+            "subjectID": "PU6057",
+            "description": "GEM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PU6030",
+            "description": "Animax"
+          },
+          {
+            "index": 7,
+            "subjectID": "PU6072",
+            "description": "Aniplus"
+          }
+        ]
+      }
+    ]
+  },
+  "TVOS_STB": {
+    "CatchUpParentSubjectID": "S2000",
+    "CatchUpExcludeSubjectID": [
+      {
+        "subjectID": "S3100",
+        "description": "Must Watch"
+      },
+      {
+        "subjectID": "S2002",
+        "description": "Info"
+      },
+      {
+        "subjectID": "SW5002",
+        "description": "New This Week"
+      }
+    ],
+    "AllChannelSubjectID": "PS6000",
+    "AllChannelExcludeSubjectID": [
+      {
+        "subjectID": "PS6044",
+        "description": "Free Channel"
+      }
+    ],
+    "mainPageRows": [
+      {
+        "index": 0,
+        "subjectID": "SW5002",
+        "description": "New This Week"
+      },
+      {
+        "index": 1,
+        "subjectID": "S3100",
+        "description": "Must Watch"
+      },
+      {
+        "index": 2,
+        "subjectID": "S2005",
+        "description": "Movies"
+      },
+      {
+        "index": 3,
+        "subjectID": "S2003",
+        "description": "Kids"
+      },
+      {
+        "index": 4,
+        "subjectID": "S2008",
+        "description": "Sports"
+      },
+      {
+        "index": 5,
+        "subjectID": "S2004",
+        "description": "Lifestyle & Knowledge"
+      },
+      {
+        "index": 6,
+        "subjectID": "S2011",
+        "description": "Chinese"
+      },
+      {
+        "index": 7,
+        "subjectID": "S2009",
+        "description": "Malay"
+      },
+      {
+        "index": 8,
+        "subjectID": "S2001",
+        "description": "International Variety"
+      },
+      {
+        "index": 9,
+        "subjectID": "S2012",
+        "description": "Korean & Japanese"
+      },
+      {
+        "index": 10,
+        "subjectID": "S2002",
+        "description": "Info"
+      }
+    ],
+    "channelMappingDict": [
+      {
+        "subjectID": "S2005",
+        "description": "Movies",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6069",
+            "description": "SIAR"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6001",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6055",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6056",
+            "description": "CCM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6054",
+            "description": "HITS Movies"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6017",
+            "description": "ROCK Action"
+          },
+          {
+            "index": 8,
+            "subjectID": "PS6004",
+            "description": "CinemaWorld"
+          },
+          {
+            "index": 9,
+            "subjectID": "PS6066",
+            "description": "Colors Cineplex"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2003",
+        "description": "Kids",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6070",
+            "description": "Moonbug"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6006",
+            "description": "DreamWorks"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6010",
+            "description": "Nick Jr."
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6025",
+            "description": "CBeebies"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6039",
+            "description": "Nickelodeon"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6003",
+            "description": "Boomerang"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6073",
+            "description": "Miao Mi"
+          },
+          {
+            "index": 8,
+            "subjectID": "PS6068",
+            "description": "Sony YAY!"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2008",
+        "description": "Sports",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6046",
+            "description": "Unifi Sports"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6061",
+            "description": "SPOTV"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6062",
+            "description": "beIN Sports"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2004",
+        "description": "Lifestyle & Knowledge",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6026",
+            "description": "BBC Lifestyle"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6023",
+            "description": "Travel Channel"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6027",
+            "description": "BBC Earth"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6045",
+            "description": "Love Nature"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6040",
+            "description": "CNA"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6065",
+            "description": "CGTN"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6074",
+            "description": "Smithsonian"
+          },
+          {
+            "index": 8,
+            "subjectID": "PS6075",
+            "description": "DW"
+          },
+          {
+            "index": 9,
+            "subjectID": "PS6018",
+            "description": "BBC News"
+          },
+          {
+            "index": 10,
+            "subjectID": "PS6019",
+            "description": "Euronews"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2011",
+        "description": "Chinese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6055",
+            "description": "Celestial Movies"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6056",
+            "description": "CCM"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6012",
+            "description": "now Jelli"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6020",
+            "description": "SETI"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6064",
+            "description": "CCTV-4"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2009",
+        "description": "Malay",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6063",
+            "description": "Degup"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6069",
+            "description": "SIAR"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6001",
+            "description": "Dunia Sinema"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6007",
+            "description": "Sensasi"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6008",
+            "description": "Inspirasi"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6002",
+            "description": "Salam HD"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6013",
+            "description": "Pesona"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2001",
+        "description": "International Variety",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6028",
+            "description": "Warner TV"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6058",
+            "description": "AXN"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6041",
+            "description": "Paramount Network"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6016",
+            "description": "ROCK Entertainment"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6053",
+            "description": "HITS"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6032",
+            "description": "MTV Live"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6067",
+            "description": "Colors Tamil"
+          }
+        ]
+      },
+      {
+        "subjectID": "S2012",
+        "description": "Korean & Japanese",
+        "channelMapping": [
+          {
+            "index": 1,
+            "subjectID": "PS6029",
+            "description": "tvN"
+          },
+          {
+            "index": 2,
+            "subjectID": "PS6024",
+            "description": "tvN Movies"
+          },
+          {
+            "index": 3,
+            "subjectID": "PS6071",
+            "description": "ONE"
+          },
+          {
+            "index": 4,
+            "subjectID": "PS6057",
+            "description": "K-Plus"
+          },
+          {
+            "index": 5,
+            "subjectID": "PS6059",
+            "description": "GEM"
+          },
+          {
+            "index": 6,
+            "subjectID": "PS6030",
+            "description": "Animax"
+          },
+          {
+            "index": 7,
+            "subjectID": "PS6072",
+            "description": "Aniplus"
+          }
+        ]
+      }
+    ]
   }
-  
+}
