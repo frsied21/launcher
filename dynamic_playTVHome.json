@@ -11,13 +11,20 @@
           "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
           "promoStatus": true
         },
-        
         {
           "index": "2",
           "title": "Unifi Promo",
           "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
           "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
           "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
+          "promoStatus": true
+        },
+        {
+          "index": "3",
+          "title": "Ultimate Promo",
+          "BlurbPoster": "https://frsied21.github.io/launcher/popUp_Dv1_small.png",
+          "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_3posters.jpg",
+          "extRedirection": "https://www.netflix.com/signup",
           "promoStatus": true
         }
       ]
