@@ -3664,7 +3664,7 @@
                     "actionType": "1",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "https://www.iq.com/play/xi37tuctgo?lang=en_us&sh_pltf=5"
+                    "actionURL": "iqyinter://mobile/register_business/qyclient?pluginParams=%7B%22biz_dynamic_params%22%3A%22%22%2C%22biz_extend_params%22%3A%22%22%2C%22campaign%22%3A%22%22%2C%22biz_id%22%3A%22102%22%2C%22biz_params%22%3A%7B%22biz_params%22%3A%22aid%3D3150606637685001%26tvid%3D4915371503945400%26ctype%3D0%26pc%3D0%26video_type%3D1%26from_type%3D27%26from_sub_type%3D10%26mod%3Dintl%22%2C%22biz_sub_id%22%3A%22101%22%7D%2C%22biz_plugin%22%3A%22qiyiplayer%22%2C%22biz_statistics%22%3A%22%22%7D"
                   },
                   "textContent": ""
                 }
