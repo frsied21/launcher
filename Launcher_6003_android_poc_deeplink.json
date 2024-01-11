@@ -3494,25 +3494,25 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://blurzschyter.github.io/ligamlympics/vod-lionsgate.png",
+                  "contentURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBoUnOS4KTNoM0jZf74Oa6u2R_YExfT1f-mg-eZ13XC2irELlCDQgBX971vbHs4UQyBNWE5otl4k9n4qds_5SEsYCPnKTAzcVggnx8uqW-tT31u_jEtQpz69HjqFC3heoD1LOZv63KILzoA-Tt6AlSO8d8L_AW5nNr_0jDzSMqoiGgwWVV1AwItxImQg/w0/Rampas%20Cintaku.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Lamborghini"
+                      "value": "Test 2"
                     },
                     {
                       "language": "zh",
-                      "value": "Lamborghini"
+                      "value": "Test 2"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Lamborghini"
+                      "value": "Test 2"
                     },
                     {
                       "language": "zh",
-                      "value": "Lamborghini"
+                      "value": "Test 2"
                     }
                   ],
                   "extraData": {},
@@ -3520,7 +3520,7 @@
                     "actionType": "3",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "android=https://lionsgateplay.com/en/movies/-/351582759977#t"
+                    "actionURL": "iqyinter://mobile/register_business/qyclient?pluginParams=%7B%22biz_dynamic_params%22%3A%22%22%2C%22biz_extend_params%22%3A%22%22%2C%22campaign%22%3A%22%22%2C%22biz_id%22%3A%22102%22%2C%22biz_params%22%3A%7B%22biz_params%22%3A%22aid%3D3150606637685001%26tvid%3D4915371503945400%26ctype%3D0%26pc%3D0%26video_type%3D1%26from_type%3D27%26from_sub_type%3D10%26mod%3Dintl%22%2C%22biz_sub_id%22%3A%22101%22%7D%2C%22biz_plugin%22%3A%22qiyiplayer%22%2C%22biz_statistics%22%3A%22%22%7D"
                   },
                   "textContent": ""
                 }
