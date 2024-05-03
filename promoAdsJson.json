@@ -7,9 +7,9 @@
           "index": "1",
           "title": "OTT Promo",
           "BlurbPoster": "http://nmhub.hypp.tv/PromoBanner/BlurbOTT4.png",
-          "PopUpPoster": "http://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo4.jpg",
+          "PopUpPoster": "https://frsied21.github.io/launcher/test_may_poster.png",
           "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-          "promoStatus": false
+          "promoStatus": true
         },
         {
           "index": "2",
