@@ -1,0 +1,32 @@
+{
+    "request": {
+      "PromoAdsStatus": true,
+      "PromoAds": [
+       
+        {
+          "index": "1",
+          "title": "OTT Promo",
+          "BlurbPoster": "http://nmhub.hypp.tv/PromoBanner/BlurbOTT4.png",
+          "PopUpPoster": "http://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo4.jpg",
+          "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
+          "promoStatus": false
+        },
+        {
+          "index": "2",
+          "title": "Unifi Promo",
+          "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
+          "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
+          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment",
+          "promoStatus": false
+        },
+        {
+          "index": "3",
+          "title": "Ultimate Promo",
+          "BlurbPoster": "https://frsied21.github.io/launcher/ezgif-2-440c01522e.gif",
+          "PopUpPoster": "https://frsied21.github.io/launcher/Final.popUp_3posters.jpg",
+          "extRedirection": "https://www.netflix.com/my-en/",
+          "promoStatus": true
+        }
+      ]
+    }
+  }
