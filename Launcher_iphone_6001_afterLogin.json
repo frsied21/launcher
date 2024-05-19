@@ -1023,7 +1023,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
                     "startDateTime": "20240520060500",
-                    "endDateTime": "20240520070000"
+                    "endDateTime": "20240520071000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1128,8 +1128,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-                    "startDateTime": "20240514010000",
-                    "endDateTime": "20240514035500"
+                    "startDateTime": "20240520071000",
+                    "endDateTime": "20240520071200"
                   },
                   "elementAction": {
                     "actionType": "2",
