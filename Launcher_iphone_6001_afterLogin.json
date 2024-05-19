@@ -1023,7 +1023,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
                     "startDateTime": "20240520060500",
-                    "endDateTime": "20240520070500"
+                    "endDateTime": "20240520070000"
                   },
                   "elementAction": {
                     "actionType": "2",
