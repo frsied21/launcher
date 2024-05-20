@@ -1023,7 +1023,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
                     "startDateTime": "20240520071000",
-                    "endDateTime": "20240520081000"
+                    "endDateTime": "20240520091000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1076,7 +1076,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
                     "startDateTime": "20240520071000",
-                    "endDateTime": "20240520082000"
+                    "endDateTime": "20240520092000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1182,7 +1182,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
                     "startDateTime": "20240520071000",
-                    "endDateTime": "20240520084000"
+                    "endDateTime": "20240520094000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1234,8 +1234,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
-                    "startDateTime": "20240514220000",
-                    "endDateTime": "20240514233000"
+                    "startDateTime": "20240520071000",
+                    "endDateTime": "202405200915000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1287,8 +1287,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
-                    "startDateTime": "20240515135500",
-                    "endDateTime": "20240518144500"
+                    "startDateTime": "20240520071000",
+                    "endDateTime": "20240520095000"
                   },
                   "elementAction": {
                     "actionType": "2",
