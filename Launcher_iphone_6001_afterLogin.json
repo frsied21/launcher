@@ -1022,8 +1022,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-                    "startDateTime": "20240520071000",
-                    "endDateTime": "20240520091000"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520151300"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1075,8 +1075,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
-                    "startDateTime": "20240520071000",
-                    "endDateTime": "20240520092000"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520151200"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1128,8 +1128,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-                    "startDateTime": "20240520071000",
-                    "endDateTime": "20240520083000"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520151600"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1181,8 +1181,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-                    "startDateTime": "20240520071000",
-                    "endDateTime": "20240520094000"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520154000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1234,8 +1234,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
-                    "startDateTime": "20240520071000",
-                    "endDateTime": "20240520091500"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520152000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1287,8 +1287,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
-                    "startDateTime": "20240520071000",
-                    "endDateTime": "20240520095000"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520151900"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1340,8 +1340,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
-                    "startDateTime": "20240515203500",
-                    "endDateTime": "20240518204500"
+                    "startDateTime": "20240520151000",
+                    "endDateTime": "20240520154000"
                   },
                   "elementAction": {
                     "actionType": "2",
