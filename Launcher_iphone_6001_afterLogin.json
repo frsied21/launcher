@@ -1023,7 +1023,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520151300"
+                    "endDateTime": "20240520153000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1076,7 +1076,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520151200"
+                    "endDateTime": "20240520153500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1129,7 +1129,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520151600"
+                    "endDateTime": "20240520154000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1182,7 +1182,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520154000"
+                    "endDateTime": "20240520154500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1235,7 +1235,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520152000"
+                    "endDateTime": "20240520155500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1288,7 +1288,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520151900"
+                    "endDateTime": "20240520155000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1341,7 +1341,7 @@
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
                     "startDateTime": "20240520151000",
-                    "endDateTime": "20240520154000"
+                    "endDateTime": "20240520153500"
                   },
                   "elementAction": {
                     "actionType": "2",
