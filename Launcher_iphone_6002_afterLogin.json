@@ -1022,8 +1022,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-                    "startDateTime": "20240513100500",
-                    "endDateTime": "20240513122500"
+                    "startDateTime": "20240613100500",
+                    "endDateTime": "20240613122500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1128,8 +1128,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-                    "startDateTime": "20240514010000",
-                    "endDateTime": "20240514035500"
+                    "startDateTime": "20240614010000",
+                    "endDateTime": "20240614035500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1340,8 +1340,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
-                    "startDateTime": "20240515203500",
-                    "endDateTime": "20240515204500"
+                    "startDateTime": "20240615203500",
+                    "endDateTime": "20240615204500"
                   },
                   "elementAction": {
                     "actionType": "2",
