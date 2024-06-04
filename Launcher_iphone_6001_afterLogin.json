@@ -998,38 +998,38 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-poster.jpg",
+                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-B2.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Tazza: One Eyed Jack"
+                      "value": "Final UEFA Europa League"
                     },
                     {
                       "language": "zh",
-                      "value": "Tazza: One Eyed Jack"
+                      "value": "Final UEFA Europa League"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Tazza: One Eyed Jack"
+                      "value": "Final UEFA Europa League"
                     },
                     {
                       "language": "zh",
-                      "value": "Tazza: One Eyed Jack"
+                      "value": "Final UEFA Europa League"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-                    "startDateTime": "20240523001000",
-                    "endDateTime": "20240523152000"
+                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-C.jpg",
+                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-A2.jpg",
+                    "startDateTime": "20240523030000",
+                    "endDateTime": "20240523060000"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=20000021&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=55456355&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -1051,38 +1051,38 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-poster.jpg",
+                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_B2.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Dr. Cheon And The Lost Talisman"
+                      "value": "Final UEFA Europa Conference League"
                     },
                     {
                       "language": "zh",
-                      "value": "Dr. Cheon And The Lost Talisman"
+                      "value": "Final UEFA Europa Conference League"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Dr. Cheon And The Lost Talisman"
+                      "value": "Final UEFA Europa Conference League"
                     },
                     {
                       "language": "zh",
-                      "value": "Dr. Cheon And The Lost Talisman"
+                      "value": "Final UEFA Europa Conference League"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
-                    "startDateTime": "20240521101000",
-                    "endDateTime": "20240521102500"
+                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_C.jpg",
+                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_A2.jpg",
+                    "startDateTime": "20240530030000",
+                    "endDateTime": "20240530060000"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=20000021&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=55456355&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -1104,38 +1104,38 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-poster.jpg",
+                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UCL_Final-B2.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "UFC Fight Night: Lewis vs. Nascimento"
+                      "value": "Final UEFA Champions League"
                     },
                     {
                       "language": "zh",
-                      "value": "UFC Fight Night: Lewis vs. Nascimento"
+                      "value": "Final UEFA Champions League"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "UFC Fight Night: Lewis vs. Nascimento"
+                      "value": "Final UEFA Champions League"
                     },
                     {
                       "language": "zh",
-                      "value": "UFC Fight Night: Lewis vs. Nascimento"
+                      "value": "Final UEFA Champions League"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-                    "startDateTime": "20240521101000",
-                    "endDateTime": "20240524152000"
+                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UCL_Final-C.jpg",
+                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UCL_Final-A2.jpg",
+                    "startDateTime": "20240602030000",
+                    "endDateTime": "20240602060000"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=54185493&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=55456355&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -1157,197 +1157,38 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
+                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/RolandGarros-May-B2.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "2024 LIV Golf League SINGAPORE"
+                      "value": "2024 Roland Garros"
                     },
                     {
                       "language": "zh",
-                      "value": "2024 LIV Golf League SINGAPORE"
+                      "value": "2024 Roland Garros"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "2024 LIV Golf League SINGAPORE"
+                      "value": "2024 Roland Garros"
                     },
                     {
                       "language": "zh",
-                      "value": "2024 LIV Golf League SINGAPORE"
+                      "value": "2024 Roland Garros"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-                    "startDateTime": "20240521101000",
-                    "endDateTime": "20240521101000"
+                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/RolandGarros-May-C.jpg",
+                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/RolandGarros-May-A2.jpg",
+                    "startDateTime": "20240526190000",
+                    "endDateTime": "20240609230000"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=20000109&ContentType=CHANNEL"
-                  },
-                  "textContent": ""
-                }
-              ],
-              "top": "0",
-              "left": "0",
-              "width": "0",
-              "height": "0",
-              "type": "1",
-              "autoPlay": "false",
-              "canFocus": "true",
-              "controlType": "0",
-              "defaultFocus": "false"
-            },
-            {
-              "id": "80204",
-              "index": "4",
-              "groupID": "802",
-              "forceDefaultData": "true",
-              "elementDatas": [
-                {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-poster.jpg",
-                  "name": [
-                    {
-                      "language": "en",
-                      "value": "Premier Padel 2024 Live"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Premier Padel 2024 Live"
-                    }
-                  ],
-                  "description": [
-                    {
-                      "language": "en",
-                      "value": "Premier Padel 2024 Live"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Premier Padel 2024 Live"
-                    }
-                  ],
-                  "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
-                    "startDateTime": "20240521101000",
-                    "endDateTime": "20240524153000"
-                  },
-                  "elementAction": {
-                    "actionType": "2",
-                    "appParam": "",
-                    "extraData": {},
-                    "actionURL": "Self://APP?ContentID=55456338&ContentType=CHANNEL"
-                  },
-                  "textContent": ""
-                }
-              ],
-              "top": "0",
-              "left": "0",
-              "width": "0",
-              "height": "0",
-              "type": "1",
-              "autoPlay": "false",
-              "canFocus": "true",
-              "controlType": "0",
-              "defaultFocus": "false"
-            },
-            {
-              "id": "80205",
-              "index": "5",
-              "groupID": "802",
-              "forceDefaultData": "true",
-              "elementDatas": [
-                {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-poster.jpg",
-                  "name": [
-                    {
-                      "language": "en",
-                      "value": "Fantasy Island (Season 2)"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Fantasy Island (Season 2)"
-                    }
-                  ],
-                  "description": [
-                    {
-                      "language": "en",
-                      "value": "Fantasy Island (Season 2)"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Fantasy Island (Season 2)"
-                    }
-                  ],
-                  "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
-                    "startDateTime": "20240521101000",
-                    "endDateTime": "20240521104500"
-                  },
-                  "elementAction": {
-                    "actionType": "2",
-                    "appParam": "",
-                    "extraData": {},
-                    "actionURL": "Self://APP?ContentID=51882833&ContentType=CHANNEL"
-                  },
-                  "textContent": ""
-                }
-              ],
-              "top": "0",
-              "left": "0",
-              "width": "0",
-              "height": "0",
-              "type": "1",
-              "autoPlay": "false",
-              "canFocus": "true",
-              "controlType": "0",
-              "defaultFocus": "false"
-            },
-            {
-              "id": "80206",
-              "index": "6",
-              "groupID": "802",
-              "forceDefaultData": "true",
-              "elementDatas": [
-                {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-poster.jpg",
-                  "name": [
-                    {
-                      "language": "en",
-                      "value": "Jendela Global"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Jendela Global"
-                    }
-                  ],
-                  "description": [
-                    {
-                      "language": "en",
-                      "value": "Jendela Global"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Jendela Global"
-                    }
-                  ],
-                  "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
-                    "startDateTime": "20240521101000",
-                    "endDateTime": "20240521105000"
-                  },
-                  "elementAction": {
-                    "actionType": "2",
-                    "appParam": "",
-                    "extraData": {},
-                    "actionURL": "Self://APP?ContentID=99999999&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=59922231&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
