@@ -1022,8 +1022,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-C.jpg",
                     "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-A2.jpg",
-                    "startDateTime": "20240523030000",
-                    "endDateTime": "20240523060000"
+                    "startDateTime": "20240623030000",
+                    "endDateTime": "20240623060000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1076,7 +1076,7 @@
                     "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_C.jpg",
                     "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_A2.jpg",
                     "startDateTime": "20240530030000",
-                    "endDateTime": "20240530060000"
+                    "endDateTime": "20240604120000"
                   },
                   "elementAction": {
                     "actionType": "2",
