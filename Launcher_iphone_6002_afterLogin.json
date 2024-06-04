@@ -1022,7 +1022,7 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-                    "startDateTime": "20240613100500",
+                    "startDateTime": "20240513100500",
                     "endDateTime": "20240613122500"
                   },
                   "elementAction": {
@@ -1340,7 +1340,7 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
-                    "startDateTime": "20240615203500",
+                    "startDateTime": "20240515203500",
                     "endDateTime": "20240615204500"
                   },
                   "elementAction": {
