@@ -998,38 +998,39 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-B2.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Final UEFA Europa League"
+                      "value": "Along With The Gods: The Last 49 Days"
                     },
                     {
                       "language": "zh",
-                      "value": "Final UEFA Europa League"
+                      "value": "Along With The Gods: The Last 49 Days"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Final UEFA Europa League"
+                      "value": "Along With The Gods: The Last 49 Days"
                     },
                     {
                       "language": "zh",
-                      "value": "Final UEFA Europa League"
+                      "value": "Along With The Gods: The Last 49 Days"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-C.jpg",
-                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UEL_Final-A2.jpg",
-                    "startDateTime": "20240614030000",
-                    "endDateTime": "20240623060000"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
+                    "startDateTime": "20240610010000",
+                    "endDateTime": "20240613121500",
+                    "playbillID": "69643422"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=55456355&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000021&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -1051,38 +1052,39 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_B2.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Final UEFA Europa Conference League"
+                      "value": "Honeysweet"
                     },
                     {
                       "language": "zh",
-                      "value": "Final UEFA Europa Conference League"
+                      "value": "Honeysweet"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Final UEFA Europa Conference League"
+                      "value": "Honeysweet"
                     },
                     {
                       "language": "zh",
-                      "value": "Final UEFA Europa Conference League"
+                      "value": "Honeysweet"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_C.jpg",
-                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/Final-UECL_A2.jpg",
-                    "startDateTime": "20240530030000",
-                    "endDateTime": "20240604120000"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-deflate.jpg",
+                    "startDateTime": "20240610010000",
+                    "endDateTime": "20240613121500",
+                    "playbillID": "69643362"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=55456355&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000021&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -1104,38 +1106,39 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UCL_Final-B2.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Final UEFA Champions League"
+                      "value": "UFC Fight Night: Cannonier vs. Imavov"
                     },
                     {
                       "language": "zh",
-                      "value": "Final UEFA Champions League"
+                      "value": "UFC Fight Night: Cannonier vs. Imavov"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Final UEFA Champions League"
+                      "value": "UFC Fight Night: Cannonier vs. Imavov"
                     },
                     {
                       "language": "zh",
-                      "value": "Final UEFA Champions League"
+                      "value": "UFC Fight Night: Cannonier vs. Imavov"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UCL_Final-C.jpg",
-                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/UCL_Final-A2.jpg",
-                    "startDateTime": "20240602030000",
-                    "endDateTime": "20240602060000"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69846025"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=55456355&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=54185493&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -1157,38 +1160,255 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/RolandGarros-May-B2.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "2024 Roland Garros"
+                      "value": "2024 Major League Baseball"
                     },
                     {
                       "language": "zh",
-                      "value": "2024 Roland Garros"
+                      "value": "2024 Major League Baseball"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "2024 Roland Garros"
+                      "value": "2024 Major League Baseball"
                     },
                     {
                       "language": "zh",
-                      "value": "2024 Roland Garros"
+                      "value": "2024 Major League Baseball"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/RolandGarros-May-C.jpg",
-                    "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/RolandGarros-May-A2.jpg",
-                    "startDateTime": "20240526190000",
-                    "endDateTime": "20240609230000"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69904470"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
-                    "actionURL": "Self://APP?ContentID=59922231&ContentType=CHANNEL"
+                    "actionURL": "Self://APP?ContentID=20000109&ContentType=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "0",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80204",
+              "index": "4",
+              "groupID": "802",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-poster.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Premier Padel 2024 Live"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Premier Padel 2024 Live"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Premier Padel 2024 Live"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Premier Padel 2024 Live"
+                    }
+                  ],
+                  "extraData": {
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69907784"
+                  },
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "Self://APP?ContentID=55456338&ContentType=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "0",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80205",
+              "index": "5",
+              "groupID": "802",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-poster.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "The Rookie (Season 5)"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "The Rookie (Season 5)"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "The Rookie (Season 5)"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "The Rookie (Season 5)"
+                    }
+                  ],
+                  "extraData": {
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-deflate.jpg",
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69812414"
+                  },
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "Self://APP?ContentID=51882833&ContentType=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "0",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80206",
+              "index": "6",
+              "groupID": "802",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-poster.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Doyan Makan"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Doyan Makan"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Doyan Makan"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Doyan Makan"
+                    }
+                  ],
+                  "extraData": {
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-deflate.jpg",
+                    "startDateTime": "20240610010000",
+                    "endDateTime": "20240613121500",
+                    "playbillID": "69514566"
+                  },
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "Self://APP?ContentID=99999999&ContentType=CHANNEL"
+                  },
+                  "textContent": ""
+                }
+              ],
+              "top": "0",
+              "left": "0",
+              "width": "0",
+              "height": "0",
+              "type": "1",
+              "autoPlay": "false",
+              "canFocus": "true",
+              "controlType": "0",
+              "defaultFocus": "false"
+            },
+            {
+              "id": "80207",
+              "index": "7",
+              "groupID": "802",
+              "forceDefaultData": "true",
+              "elementDatas": [
+                {
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-poster.jpg",
+                  "name": [
+                    {
+                      "language": "en",
+                      "value": "Pacific Rim: Uprising"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Pacific Rim: Uprising"
+                    }
+                  ],
+                  "description": [
+                    {
+                      "language": "en",
+                      "value": "Pacific Rim: Uprising"
+                    },
+                    {
+                      "language": "zh",
+                      "value": "Pacific Rim: Uprising"
+                    }
+                  ],
+                  "extraData": {
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-deflate.jpg",
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "9968971899"
+                  },
+                  "elementAction": {
+                    "actionType": "2",
+                    "appParam": "",
+                    "extraData": {},
+                    "actionURL": "Self://APP?ContentID=20000081&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -7218,11 +7438,11 @@
       "name": [
         {
           "language": "en",
-          "value": "OLYMPIC GAMES PARIS 2024 ABCDEFGH"
+          "value": "LIVE EVENTS"
         },
         {
           "language": "zh",
-          "value": "OLYMPIC GAMES PARIS 2024 ABCDEFGH"
+          "value": "LIVE EVENTS"
         }
       ],
       "controlInfo": {
