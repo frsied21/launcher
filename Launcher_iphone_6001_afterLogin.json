@@ -1022,10 +1022,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-                    "startDateTime": "20240619010000",
-                    "endDateTime": "20240626121500",
-                    "playbillID": "69644178",
-                    "channelID": "20000021"
+                    "startDateTime": "20240610010000",
+                    "endDateTime": "20240613121500",
+                    "playbillID": "69643422"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1057,30 +1056,29 @@
                   "name": [
                     {
                       "language": "en",
-                      "value": "Double Patty"
+                      "value": "Honeysweet"
                     },
                     {
                       "language": "zh",
-                      "value": "Double Patty"
+                      "value": "Honeysweet"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Double Patty"
+                      "value": "Honeysweet"
                     },
                     {
                       "language": "zh",
-                      "value": "Double Patty"
+                      "value": "Honeysweet"
                     }
                   ],
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-deflate.jpg",
-                    "startDateTime": "20240619010000",
-                    "endDateTime": "20240627221500",
-                    "playbillID": "69644034",
-                    "channelID": "20000021"
+                    "startDateTime": "20240610010000",
+                    "endDateTime": "20240613121500",
+                    "playbillID": "69643362"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1132,10 +1130,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-                    "startDateTime": "20240629010000",
-                    "endDateTime": "20240629220000",
-                    "playbillID": "69962749",
-                    "channelID": "54185493"
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69846025"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1187,10 +1184,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-                    "startDateTime": "20240619010000",
-                    "endDateTime": "20240629220000",
-                    "playbillID": "69959259",
-                    "channelID": "20000109"
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69904470"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1242,10 +1238,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
-                    "startDateTime": "20240627010000",
-                    "endDateTime": "20240629220000",
-                    "playbillID": "69965225",
-                    "channelID": "55456338"
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69907784"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1297,10 +1292,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-deflate.jpg",
-                    "startDateTime": "20240629010000",
-                    "endDateTime": "20240629220000",
-                    "playbillID": "70021934",
-                    "channelID": "51882833"
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "69812414"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1352,10 +1346,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-deflate.jpg",
-                    "startDateTime": "20240627010000",
-                    "endDateTime": "20240630121500",
-                    "playbillID": "69515928",
-                    "channelID": "99999999"
+                    "startDateTime": "20240610010000",
+                    "endDateTime": "20240613121500",
+                    "playbillID": "69514566"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1407,10 +1400,9 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-deflate.jpg",
-                    "startDateTime": "20240630010000",
-                    "endDateTime": "20240630220000",
-                    "playbillID": "9968971899",
-                    "channelID": "20000081"
+                    "startDateTime": "20240617010000",
+                    "endDateTime": "20240621220000",
+                    "playbillID": "9968971899"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -7393,7 +7385,7 @@
         "showMore": 0,
         "pageId": 300
       },
-      "categoryCode": "UW1001",
+      "categoryCode": "H1001",
       "id": "800",
       "type": "3",
       "index": "0",
@@ -7426,7 +7418,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW1001",
+      "categoryCode": "H1001",
       "id": "801",
       "type": "3",
       "index": "1",
@@ -7479,11 +7471,11 @@
       "name": [
         {
           "language": "en",
-          "value": "BLOCKBUSTER MOVIE DEALS"
+          "value": "TEST OLYMPIC PARIS"
         },
         {
           "language": "zh",
-          "value": "BLOCKBUSTER MOVIE DEALS"
+          "value": "TEST OLYMPIC PARIS"
         }
       ],
       "controlInfo": {
@@ -7492,9 +7484,9 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW1013",
+      "categoryCode": "U0001",
       "id": "803",
-      "type": "3",
+      "type": "4",
       "index": "3",
       "description": [
         {
@@ -7525,7 +7517,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW5006",
+      "categoryCode": "H5006",
       "id": "804",
       "type": "3",
       "index": "4",
@@ -7591,7 +7583,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW5002",
+      "categoryCode": "H5002",
       "id": "806",
       "type": "3",
       "index": "6",
@@ -7690,7 +7682,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW2005",
+      "categoryCode": "H2005",
       "id": "809",
       "type": "3",
       "index": "9",
@@ -7723,7 +7715,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW2001",
+      "categoryCode": "H2001",
       "id": "810",
       "type": "3",
       "index": "10",
@@ -7756,7 +7748,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW2003",
+      "categoryCode": "H2003",
       "id": "811",
       "type": "3",
       "index": "11",
@@ -7789,7 +7781,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW3002",
+      "categoryCode": "H3002",
       "id": "812",
       "type": "3",
       "index": "12",
@@ -7822,7 +7814,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "UW2002",
+      "categoryCode": "H2002",
       "id": "813",
       "type": "3",
       "index": "13",
