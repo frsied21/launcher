@@ -7471,11 +7471,11 @@
       "name": [
         {
           "language": "en",
-          "value": "BLOCKBUSTER MOVIE DEALS"
+          "value": "TEST OLYMPIC PARIS"
         },
         {
           "language": "zh",
-          "value": "BLOCKBUSTER MOVIE DEALS"
+          "value": "TEST OLYMPIC PARIS"
         }
       ],
       "controlInfo": {
@@ -7484,9 +7484,9 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H1013",
+      "categoryCode": "U0001",
       "id": "803",
-      "type": "3",
+      "type": "4",
       "index": "3",
       "description": [
         {
