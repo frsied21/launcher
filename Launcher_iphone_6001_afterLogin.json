@@ -7418,12 +7418,12 @@
         }
       ],
       "controlInfo": {
-        "controlID": "HCList",
+        "controlID": "PList",
         "showRefresh": 0,
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "U0013",
+      "categoryCode": "U0004",
       "id": "803",
       "type": "4",
       "index": "3",
