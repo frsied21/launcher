@@ -1002,29 +1002,28 @@
                   "name": [
                     {
                       "language": "en",
-                      "value": "Along With The Gods: The Last 49 Days"
+                      "value": "Tazza: One Eyed Jack"
                     },
                     {
                       "language": "zh",
-                      "value": "Along With The Gods: The Last 49 Days"
+                      "value": "Tazza: One Eyed Jack"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Along With The Gods: The Last 49 Days"
+                      "value": "Tazza: One Eyed Jack"
                     },
                     {
                       "language": "zh",
-                      "value": "Along With The Gods: The Last 49 Days"
+                      "value": "Tazza: One Eyed Jack"
                     }
                   ],
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/tazza-deflate.jpg",
-                    "startDateTime": "20240610010000",
-                    "endDateTime": "20240613121500",
-                    "playbillID": "69643422"
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520144000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1052,33 +1051,32 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-poster.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Honeysweet"
+                      "value": "Dr. Cheon And The Lost Talisman"
                     },
                     {
                       "language": "zh",
-                      "value": "Honeysweet"
+                      "value": "Dr. Cheon And The Lost Talisman"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Honeysweet"
+                      "value": "Dr. Cheon And The Lost Talisman"
                     },
                     {
                       "language": "zh",
-                      "value": "Honeysweet"
+                      "value": "Dr. Cheon And The Lost Talisman"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/love-deflate.jpg",
-                    "startDateTime": "20240610010000",
-                    "endDateTime": "20240613121500",
-                    "playbillID": "69643362"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/talisman-deflate.jpg",
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520144500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1110,29 +1108,28 @@
                   "name": [
                     {
                       "language": "en",
-                      "value": "UFC Fight Night: Cannonier vs. Imavov"
+                      "value": "UFC Fight Night: Lewis vs. Nascimento"
                     },
                     {
                       "language": "zh",
-                      "value": "UFC Fight Night: Cannonier vs. Imavov"
+                      "value": "UFC Fight Night: Lewis vs. Nascimento"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "UFC Fight Night: Cannonier vs. Imavov"
+                      "value": "UFC Fight Night: Lewis vs. Nascimento"
                     },
                     {
                       "language": "zh",
-                      "value": "UFC Fight Night: Cannonier vs. Imavov"
+                      "value": "UFC Fight Night: Lewis vs. Nascimento"
                     }
                   ],
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/ufc-deflate.jpg",
-                    "startDateTime": "20240617010000",
-                    "endDateTime": "20240621220000",
-                    "playbillID": "69846025"
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520145000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1164,29 +1161,28 @@
                   "name": [
                     {
                       "language": "en",
-                      "value": "2024 Major League Baseball"
+                      "value": "2024 LIV Golf League SINGAPORE"
                     },
                     {
                       "language": "zh",
-                      "value": "2024 Major League Baseball"
+                      "value": "2024 LIV Golf League SINGAPORE"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "2024 Major League Baseball"
+                      "value": "2024 LIV Golf League SINGAPORE"
                     },
                     {
                       "language": "zh",
-                      "value": "2024 Major League Baseball"
+                      "value": "2024 LIV Golf League SINGAPORE"
                     }
                   ],
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/golf-deflate.jpg",
-                    "startDateTime": "20240617010000",
-                    "endDateTime": "20240621220000",
-                    "playbillID": "69904470"
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520145500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1238,9 +1234,8 @@
                   "extraData": {
                     "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-bg.jpg",
                     "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/padel-deflate.jpg",
-                    "startDateTime": "20240617010000",
-                    "endDateTime": "20240621220000",
-                    "playbillID": "69907784"
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520150000"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1268,33 +1263,32 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-poster.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "The Rookie (Season 5)"
+                      "value": "Fantasy Island (Season 2)"
                     },
                     {
                       "language": "zh",
-                      "value": "The Rookie (Season 5)"
+                      "value": "Fantasy Island (Season 2)"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "The Rookie (Season 5)"
+                      "value": "Fantasy Island (Season 2)"
                     },
                     {
                       "language": "zh",
-                      "value": "The Rookie (Season 5)"
+                      "value": "Fantasy Island (Season 2)"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/police-deflate.jpg",
-                    "startDateTime": "20240617010000",
-                    "endDateTime": "20240621220000",
-                    "playbillID": "69812414"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/island-deflate.jpg",
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520150500"
                   },
                   "elementAction": {
                     "actionType": "2",
@@ -1322,93 +1316,38 @@
               "forceDefaultData": "true",
               "elementDatas": [
                 {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-poster.jpg",
+                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-poster.jpg",
                   "name": [
                     {
                       "language": "en",
-                      "value": "Doyan Makan"
+                      "value": "Jendela Global"
                     },
                     {
                       "language": "zh",
-                      "value": "Doyan Makan"
+                      "value": "Jendela Global"
                     }
                   ],
                   "description": [
                     {
                       "language": "en",
-                      "value": "Doyan Makan"
+                      "value": "Jendela Global"
                     },
                     {
                       "language": "zh",
-                      "value": "Doyan Makan"
+                      "value": "Jendela Global"
                     }
                   ],
                   "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/eat-deflate.jpg",
-                    "startDateTime": "20240610010000",
-                    "endDateTime": "20240613121500",
-                    "playbillID": "69514566"
+                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-bg.jpg",
+                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/jendela-deflate.jpg",
+                    "startDateTime": "20240520100000",
+                    "endDateTime": "20240520151000"
                   },
                   "elementAction": {
                     "actionType": "2",
                     "appParam": "",
                     "extraData": {},
                     "actionURL": "Self://APP?ContentID=99999999&ContentType=CHANNEL"
-                  },
-                  "textContent": ""
-                }
-              ],
-              "top": "0",
-              "left": "0",
-              "width": "0",
-              "height": "0",
-              "type": "1",
-              "autoPlay": "false",
-              "canFocus": "true",
-              "controlType": "0",
-              "defaultFocus": "false"
-            },
-            {
-              "id": "80207",
-              "index": "7",
-              "groupID": "802",
-              "forceDefaultData": "true",
-              "elementDatas": [
-                {
-                  "contentURL": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-poster.jpg",
-                  "name": [
-                    {
-                      "language": "en",
-                      "value": "Pacific Rim: Uprising"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Pacific Rim: Uprising"
-                    }
-                  ],
-                  "description": [
-                    {
-                      "language": "en",
-                      "value": "Pacific Rim: Uprising"
-                    },
-                    {
-                      "language": "zh",
-                      "value": "Pacific Rim: Uprising"
-                    }
-                  ],
-                  "extraData": {
-                    "backgroundImgUPB": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-bg.jpg",
-                    "deflateImg": "https://unifitv4u.bitbucket.io/homeLauncher/poc/img/live_event/pacific-deflate.jpg",
-                    "startDateTime": "20240617010000",
-                    "endDateTime": "20240621220000",
-                    "playbillID": "9968971899"
-                  },
-                  "elementAction": {
-                    "actionType": "2",
-                    "appParam": "",
-                    "extraData": {},
-                    "actionURL": "Self://APP?ContentID=20000081&ContentType=CHANNEL"
                   },
                   "textContent": ""
                 }
@@ -7385,7 +7324,7 @@
         "showMore": 0,
         "pageId": 300
       },
-      "categoryCode": "H1001",
+      "categoryCode": "UW1001",
       "id": "800",
       "type": "3",
       "index": "0",
@@ -7418,7 +7357,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H1001",
+      "categoryCode": "UW1001",
       "id": "801",
       "type": "3",
       "index": "1",
@@ -7517,7 +7456,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H5006",
+      "categoryCode": "UW5006",
       "id": "804",
       "type": "3",
       "index": "4",
@@ -7583,7 +7522,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H5002",
+      "categoryCode": "UW5002",
       "id": "806",
       "type": "3",
       "index": "6",
@@ -7682,7 +7621,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H2005",
+      "categoryCode": "UW2005",
       "id": "809",
       "type": "3",
       "index": "9",
@@ -7715,7 +7654,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H2001",
+      "categoryCode": "UW2001",
       "id": "810",
       "type": "3",
       "index": "10",
@@ -7748,7 +7687,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H2003",
+      "categoryCode": "UW2003",
       "id": "811",
       "type": "3",
       "index": "11",
@@ -7781,7 +7720,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H3002",
+      "categoryCode": "UW3002",
       "id": "812",
       "type": "3",
       "index": "12",
@@ -7814,7 +7753,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "H2002",
+      "categoryCode": "UW2002",
       "id": "813",
       "type": "3",
       "index": "13",
