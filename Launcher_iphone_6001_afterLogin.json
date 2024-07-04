@@ -7418,7 +7418,7 @@
         }
       ],
       "controlInfo": {
-        "controlID": "PList",
+        "controlID": "HCList",
         "showRefresh": 0,
         "showMore": 1,
         "pageId": 300
