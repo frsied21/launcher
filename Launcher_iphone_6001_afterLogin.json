@@ -7410,11 +7410,11 @@
       "name": [
         {
           "language": "en",
-          "value": "TEST OLYMPIC PARIS"
+          "value": "OLYMPIC GAMES PARIS 2024"
         },
         {
           "language": "zh",
-          "value": "TEST OLYMPIC PARIS"
+          "value": "OLYMPIC GAMES PARIS 2024"
         }
       ],
       "controlInfo": {
@@ -7423,7 +7423,7 @@
         "showMore": 1,
         "pageId": 300
       },
-      "categoryCode": "U0004",
+      "categoryCode": "U0013",
       "id": "803",
       "type": "4",
       "index": "3",
