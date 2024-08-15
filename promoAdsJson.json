@@ -5,9 +5,9 @@
        
         {
           "index": "1",
-          "title": "Free TVB Anywhere",
-          "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/Blurb_May_TVB.png",
-          "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_May_TVB.jpg",
+          "title": "Barajiwa",
+          "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/Blurb_Aug_FamilyPack.png",
+          "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_Aug_FamilyPack.jpg",
           "extRedirection": "",
           "promoStatus": true,
           "label": "test Free TVB Anywhere"
@@ -19,7 +19,7 @@
           "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/BlurbOTT.jpg",
           "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_OTTPromo.jpg",
           "extRedirection": "https://activate.unifi.com.my/ott/icredirect.aspx?method=poster&cid=act&uid=",
-          "promoStatus": true,
+          "promoStatus": false,
           "label": "test Unifi Promo"
         }
       ]
