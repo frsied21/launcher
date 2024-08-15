@@ -8,7 +8,7 @@
           "title": "Free TVB Anywhere",
           "BlurbPoster": "https://nmhub.hypp.tv/PromoBanner/Blurb_May_TVB.png",
           "PopUpPoster": "https://nmhub.hypp.tv/PromoBanner/PopUp_May_TVB.jpg",
-          "extRedirection": "https://selfcare.unifi.com.my/service/tvapps/my-entertainment?utm_source=unifitv_app&utm_medium=unifitv_app&utm_campaign=unifitv_202405_tvbanywhr&utm_term=popup&utm_content=rubypack_free_activate_now",
+          "extRedirection": "",
           "promoStatus": true,
           "label": "test Free TVB Anywhere"
         },
