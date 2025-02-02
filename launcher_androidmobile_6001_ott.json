@@ -2036,8 +2036,8 @@
                     "extraData": {
                       "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AO2024_AFF_D6_C.jpg",
                       "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AO2024_AFF_D6_A2.jpg",
-                      "startDateTime": "20250117073000",
-                      "endDateTime": "20250117210000",
+                      "startDateTime": "20260117073000",
+                      "endDateTime": "20260117210000",
                       "playbillID": "73504869",
                       "channelID": "59922231"
                     },
@@ -2091,8 +2091,8 @@
                     "extraData": {
                       "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlTaawounvsAlNassr-C.jpg",
                       "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AlTaawounvsAlNassr-A2.jpg",
-                      "startDateTime": "20250118004500",
-                      "endDateTime": "20250118030000",
+                      "startDateTime": "20260118004500",
+                      "endDateTime": "20260118030000",
                       "playbillID": "73873663",
                       "channelID": "20000076"
                     },
@@ -2146,8 +2146,8 @@
                     "extraData": {
                       "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FrankfurtvsDortmund-C.jpg",
                       "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/FrankfurtvsDortmund-A2.jpg",
-                      "startDateTime": "20250118032500",
-                      "endDateTime": "20250118053000",
+                      "startDateTime": "20260118032500",
+                      "endDateTime": "20260118053000",
                       "playbillID": "73862730",
                       "channelID": "55456355"
                     },
@@ -2201,8 +2201,8 @@
                     "extraData": {
                       "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AO2024_AFF_D7_C.jpg",
                       "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/AO2024_AFF_D7_A2.jpg",
-                      "startDateTime": "20250118073000",
-                      "endDateTime": "20250118210000",
+                      "startDateTime": "20260118073000",
+                      "endDateTime": "20260118210000",
                       "playbillID": "73504899",
                       "channelID": "59922231"
                     },
@@ -2256,8 +2256,8 @@
                     "extraData": {
                       "backgroundImgUPB": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/BayernvsWolfsburg-C.jpg",
                       "deflateImg": "https://playtv.unifi.com.my/EPG/WEBTV/assets/event/BayernvsWolfsburg-A2.jpg",
-                      "startDateTime": "20250118222000",
-                      "endDateTime": "20250119003000",
+                      "startDateTime": "20260118222000",
+                      "endDateTime": "20260119003000",
                       "playbillID": "73862808",
                       "channelID": "55456355"
                     },
